@@ -5,4 +5,4 @@ so you can use my code in everywhere. but just remeber the GHU rules (O—O)
 
 this project show as below photos
 
-![image something wrong??](http://github.com/luofun/GDUTeeLearning/raw/master/png/mymfc.PNG)
+![image](http://github.com/luofun/GDUTeeLearning/raw/master/png/mymfc.PNG)
